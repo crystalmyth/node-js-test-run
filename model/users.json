@@ -1,0 +1,27 @@
+[
+    {
+        "username": "Lakshya",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984,
+            "Admin": 5150
+        },
+        "password": "$2b$10$SoJoCxvwHxv.URKnmwgBMeQIviF6.zk6DEYTGDYKSUXe0y3Rzpuqm"
+    },
+    {
+        "username": "Lakshya12",
+        "roles": {
+            "User": 2001
+        },
+        "password": "$2b$10$s7yDJBIuu9tqs/qFdzhao.RpcD6UZ2sz694/bdeL.uslIjEj0O33S"
+    },
+    {
+        "username": "Crystalmyth",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984
+        },
+        "password": "$2b$10$knXUMaOwbFjBW0YG76bGA.3vJYes0HJ8pw1tpneTdz1aloa9HIaue",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkNyeXN0YWxteXRoIiwiaWF0IjoxNjgzMDM1MzI3LCJleHAiOjE2ODMxMjE3Mjd9.ED6Z9PEE3fi691Nr5Vnm76P57i1WOCORFraMC6z5H0U"
+    }
+]

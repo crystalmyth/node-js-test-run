@@ -1,0 +1,3 @@
+20230501	15:58:16	3fa6e991-6df7-496c-ab91-ed5134b8c461	Error: Not allowed by CORS
+20230501	16:09:53	045ec925-4eaa-465c-9470-8be8b8289ba9	Error: ENOENT: no such file or directory, stat '/Applications/XAMPP/xamppfiles/htdocs/nodejs/test-run/views/subdir/index.html'
+20230501	16:10:36	09dc43bf-6dc6-47ca-96d2-2f1c9014540b	Error: ENOENT: no such file or directory, stat '/Applications/XAMPP/xamppfiles/htdocs/nodejs/test-run/views/subdir/test.html'
